@@ -1,8 +1,3 @@
----
-title: Fed Trades Privacy Policy
-permalink: /privacy-policy/
----
-
 # Privacy Policy
 
 **Effective date: June 11, 2026**

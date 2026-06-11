@@ -3,4 +3,4 @@ Public Fed Trades static data snapshots
 
 ## Legal
 
-- [Fed Trades Privacy Policy](https://connertate.github.io/fedtrades-data/privacy-policy/)
+- [Fed Trades Privacy Policy](https://github.com/connertate/fedtrades-data/blob/main/privacy-policy.md)
