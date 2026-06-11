@@ -5,3 +5,7 @@ Public Fed Trades static data snapshots
 
 - [Fed Trades Privacy Policy](https://github.com/connertate/fedtrades-data/blob/main/privacy-policy.md)
 - [Fed Trades Terms and Conditions](https://github.com/connertate/fedtrades-data/blob/main/terms-and-conditions.md)
+
+## Support
+
+- [Fed Trades Support](https://github.com/connertate/fedtrades-data/blob/main/support.md)
