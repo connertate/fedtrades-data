@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T06:59:54Z",
+  "generatedAt": "2026-07-24T07:00:44Z",
   "trades": {
     "path": "trades.json",
     "url": "https://connertate.github.io/fedtrades-data/trades.json",
     "contentType": "application/json",
     "schemaVersion": 1,
-    "lastUpdated": "2026-07-23T06:59:54Z",
+    "lastUpdated": "2026-07-24T07:00:44Z",
     "cutoffDate": "2026-01-01",
-    "totalReports": 348,
-    "totalLineItems": 3573,
+    "totalReports": 349,
+    "totalLineItems": 3574,
     "totalRepresentatives": 109,
-    "sha256": "effa1b02089bbb1e19653d364883b79af088d2a1a86387066873d6d0e6d4ea7f",
-    "bytes": 1707678
+    "sha256": "3a7a2152c20556da40a2394b77fd61aeeef92754ef61ee7499fcedac5da93562",
+    "bytes": 1708873
   }
 }
